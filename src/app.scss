@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/utilities';
+@import 'tailwindcss/components';
+
+page {
+  padding-bottom: env(safe-area-inset-bottom);
+}
